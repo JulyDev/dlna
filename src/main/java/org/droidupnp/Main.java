@@ -35,12 +35,15 @@ import org.droidupnp.controller.upnp.IUpnpServiceController;
 import org.droidupnp.model.upnp.IFactory;
 import org.droidupnp.view.ContentDirectoryFragment;
 import org.droidupnp.view.SettingsActivity;
+import org.fourthline.cling.android.FixedAndroidLogHandler;
 
 import java.net.Inet4Address;
 import java.net.InetAddress;
 import java.net.NetworkInterface;
 import java.net.UnknownHostException;
 import java.util.Enumeration;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 public class Main extends AppCompatActivity
 {
@@ -82,6 +85,11 @@ public class Main extends AppCompatActivity
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 
+		org.seamless.util.logging.LoggingUtil.resetRootHandler(
+				new FixedAndroidLogHandler()
+		);
+
+		Logger.getLogger("org.fourthline.cling").setLevel(Level.FINEST);
 		Log.d(TAG, "onCreated : " + savedInstanceState + factory + upnpServiceController);
 
 		// Use cling factory

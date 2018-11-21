@@ -20,11 +20,16 @@
 package org.droidupnp.model.cling;
 
 import org.droidupnp.model.upnp.IUpnpDevice;
+import org.droidupnp.view.UpnpDeviceListFragment;
 import org.fourthline.cling.model.meta.Action;
 import org.fourthline.cling.model.meta.Device;
+import org.fourthline.cling.model.meta.RemoteDevice;
+import org.fourthline.cling.model.meta.RemoteService;
 import org.fourthline.cling.model.meta.Service;
 import org.fourthline.cling.model.types.ServiceType;
 import org.fourthline.cling.model.types.UDAServiceType;
+
+import java.net.URL;
 
 import android.util.Log;
 
@@ -68,7 +73,7 @@ public class CDevice implements IUpnpDevice {
 	@Override
 	public String getUID()
 	{
-		return device.getIdentity().getUdn().toString();
+		return device.getIdentity().getUdn().getIdentifierString();
 	}
 
 	@Override
@@ -90,11 +95,18 @@ public class CDevice implements IUpnpDevice {
 		Service[] services = device.findServices();
 		for (Service service : services)
 		{
-			Log.i("UpnpDeviceListFragment", "\t Service : " + service);
-			for (Action a : service.getActions())
+			Log.e("UpnpDeviceListFragment", "\t Service : " + service);
+			if(service instanceof RemoteService)
 			{
-				Log.i("UpnpDeviceListFragment", "\t\t Action : " + a);
+				RemoteService remoteService = (RemoteService) service;
+				URL controLURL = remoteService.getDevice().normalizeURI(remoteService.getControlURI());
+                Log.e("UpnpDeviceListFragment", "controLURL = " + controLURL);
 			}
+
+//			for (Action a : service.getActions())
+//			{
+//				Log.e("UpnpDeviceListFragment", "\t\t Action : " + a);
+//			}
 		}
 	}
 
@@ -200,9 +212,15 @@ public class CDevice implements IUpnpDevice {
 		}
 	}
 
+
 	@Override
 	public boolean isFullyHydrated()
 	{
 		return device.isFullyHydrated();
+	}
+
+	@Override
+	public String getDeviceType() {
+		return device.getType().toString();
 	}
 }

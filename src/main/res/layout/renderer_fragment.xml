@@ -76,6 +76,7 @@
 			android:layout_width="wrap_content"
 			android:layout_height="wrap_content"
 			android:ellipsize="marquee"
+			android:text="此处是标题"
 			android:singleLine="true"
 			style="@style/rendererTitle" />
 
@@ -86,6 +87,7 @@
 			android:layout_height="wrap_content"
 			android:ellipsize="marquee"
 			android:singleLine="true"
+			android:text="此处是副标题"
 			style="@style/rendererSubtitle" />
 
 	</LinearLayout>

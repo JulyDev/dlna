@@ -425,8 +425,10 @@ public class ContentDirectoryFragment extends ListFragment implements Observer
 				.getFilteredDeviceList(new CallableContentDirectoryFilter());
 
 			ArrayList<DIDLObjectDisplay> list = new ArrayList<DIDLObjectDisplay>();
-			for (IUpnpDevice upnpDevice : upnpDevices)
-				list.add(new DIDLObjectDisplay(new DIDLDevice(upnpDevice)));
+            for (IUpnpDevice upnpDevice : upnpDevices)
+            {
+                list.add(new DIDLObjectDisplay(new DIDLDevice(upnpDevice)));
+            }
 
 			try {
 				ContentCallback cc = new ContentCallback(contentList);

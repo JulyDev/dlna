@@ -57,6 +57,8 @@ public interface IUpnpDevice {
 
 	public boolean isFullyHydrated();
 
+	String getDeviceType();
+
 	@Override
 	public String toString();
 }

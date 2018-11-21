@@ -1,0 +1,295 @@
+04-12 16:19:26.653: E/dalvikvm(10962): Could not find class 'android.service.notification.ZenModeConfig', referenced from method com.oppo.callandmessage.IncomingCallAndMessage.getZenModeConfig
+04-12 16:19:26.718: E/dalvikvm(10975): /system/app/OppoSpeechAssist.apk odex has stale dependencies
+04-12 16:19:30.835: E/ActivityManager(924): START {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=org.droidupnp/.Main bnds=[792,1267][1045,1562] u=0} from pid 1403
+04-12 16:19:31.155: E/WifiManager(10994): mWifiServiceMessenger == null
+04-12 16:19:31.428: E/WifiManager(10994): mWifiServiceMessenger == null
+04-12 16:19:31.674: E/UpnpDeviceListFragment(10994): New device detected DisplayString: DroidUPnP,frindlyName:OPPO R7,seviceType:
+04-12 16:19:31.674: E/UpnpDeviceListFragment(10994): 	ContentDirectory : schemas-upnp-org:ContentDirectory:1,uuid:00000000-0000-0000-0000-00000000000a
+04-12 16:19:31.674: E/UpnpDeviceListFragment(10994): getPresentationURL = 
+04-12 16:19:31.674: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = DroidUPnP,ManufacturerURL = https://github.com/trishika/DroidUPnP,ModelURL = ,ModelName = 
+04-12 16:19:32.704: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV智能电视,seviceType:
+04-12 16:19:32.704: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:19:32.704: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:19:32.704: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:4a734373-e5be-4548-8dad-dae960ba7cf1
+04-12 16:19:32.705: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:19:32.705: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/
+04-12 16:19:33.444: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Amlogic Corporation AV Renderer,frindlyName:DLNA-Player-MediaCenter,seviceType:
+04-12 16:19:33.444: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:19:33.444: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:19:33.444: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:bda4efc0-db0c-41f8-b7d5-94:a1:a2:81:a7:a4
+04-12 16:19:33.444: E/UpnpDeviceListFragment(10994): getPresentationURL = 
+04-12 16:19:33.444: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Amlogic Corporation,ManufacturerURL = http://www.amlogic.com,ModelURL = http://www.amlogic.com/technology/upnp,ModelName = http://www.amlogic.com/technology/upnp
+04-12 16:19:33.512: E/UpnpDeviceListFragment(10994): New device detected DisplayString: LEBO Foundation Lebo 1.0.1,frindlyName:乐投E5,seviceType:
+04-12 16:19:33.512: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:19:33.512: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:19:33.512: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:6792df55-ecad-4a1e-95cf-6a382838c6e1
+04-12 16:19:33.513: E/UpnpDeviceListFragment(10994): getPresentationURL = 
+04-12 16:19:33.513: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = LEBO Foundation,ManufacturerURL = http://www.hpplay.cn,ModelURL = http://www.hpplay.cn,ModelName = http://www.hpplay.cn
+04-12 16:19:33.973: E/NetworkStats(924): success. readNetworkStatsDetail size = 60
+04-12 16:19:33.973: E/NetworkStats(924): success. readNetworkStatsDetailWithPids end.
+04-12 16:19:33.990: E/NetworkStats(924): success. readNetworkStatsDetailWithPids size = 44
+04-12 16:19:33.990: E/NetworkStats(924): success. readNetworkStatsDetailWithPids end.
+04-12 16:19:34.066: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPBOX mini,seviceType:
+04-12 16:19:34.066: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:19:34.066: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:19:34.066: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:68e937bd-5070-42cd-b1c0-0427726813f5
+04-12 16:19:34.066: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:19:34.069: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/
+04-12 16:19:34.074: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:代码协议,seviceType:
+04-12 16:19:34.074: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:19:34.074: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:19:34.074: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:91b6b502-b6fe-48f5-ae8b-ce71bc216923
+04-12 16:19:34.074: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:19:34.074: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/, ModelURL = http://www.pptv.com/, ModelName = http://www.pptv.com/
+04-12 16:19:34.111: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV智能电视,seviceType:
+04-12 16:19:34.111: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:19:34.111: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:19:34.111: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:d492e07f-069b-48f5-82b7-abf08ae33fed
+04-12 16:19:34.112: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:19:34.114: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/
+04-12 16:19:34.161: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV多屏互动播放器 - ITA-1608-0025,seviceType:
+04-12 16:19:34.161: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:19:34.161: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:19:34.161: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:334b9462-429d-11db-b130-C85B76176D7A
+04-12 16:19:34.162: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:19:34.162: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/
+04-12 16:19:34.190: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV盒子,seviceType:
+04-12 16:19:34.190: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:19:34.190: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:19:34.190: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:5b23ef6f-0e40-4136-b004-c5cbbe8af9da
+04-12 16:19:34.190: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:19:34.190: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/
+04-12 16:19:34.208: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV智能电视,seviceType:
+04-12 16:19:34.208: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:19:34.208: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:19:34.208: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:8470f80e-a2d3-4e77-aed6-e8d123fdfa12
+04-12 16:19:34.208: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:19:34.209: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/
+04-12 16:19:34.814: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV多屏互动播放器 - ITA-1505-0017,seviceType:
+04-12 16:19:34.814: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:19:34.814: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:19:34.814: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:334b9462-429d-11db-b130-4CBB587F919F
+04-12 16:19:34.814: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:19:34.815: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/
+04-12 16:19:34.892: E/UpnpDeviceListFragment(10994): New device detected DisplayString: qDlna QDlna AV Media Renderer Device 1234,frindlyName:客厅的电视(184),seviceType:
+04-12 16:19:34.892: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:19:34.892: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:19:34.892: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1
+04-12 16:19:34.892: E/UpnpDeviceListFragment(10994): 	PrivateServer : schemas-upnp-org:PrivateServer:1,uuid:f939-a09c-5ccc-e08d
+04-12 16:19:34.892: E/UpnpDeviceListFragment(10994): getPresentationURL = 
+04-12 16:19:34.893: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = qDlna,ManufacturerURL = http://ptqy.gitv.tv,ModelURL = http://ptqy.gitv.tv/qDlna,ModelName = http://ptqy.gitv.tv/qDlna
+04-12 16:19:34.977: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV Media Center 1.0,frindlyName:PPTV多屏互动服务器 - ITA-1505-0024,seviceType:
+04-12 16:19:34.977: E/UpnpDeviceListFragment(10994): 	ContentDirectory : schemas-upnp-org:ContentDirectory:1
+04-12 16:19:34.977: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1,uuid:234b9462-429d-11db-b130-4CBB587F9381
+04-12 16:19:34.977: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:19:34.977: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/
+04-12 16:19:35.108: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV Media Center 1.0,frindlyName:PPTV多屏互动服务器 - ITA-1608-0025,seviceType:
+04-12 16:19:35.108: E/UpnpDeviceListFragment(10994): 	ContentDirectory : schemas-upnp-org:ContentDirectory:1
+04-12 16:19:35.108: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1,uuid:234b9462-429d-11db-b130-C85B76176D7A
+04-12 16:19:35.109: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:19:35.109: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/
+04-12 16:19:35.823: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPBOX mini,seviceType:
+04-12 16:19:35.823: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:19:35.823: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:19:35.823: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:ccbde06e-de0b-4c25-a708-02f5d7b1602d
+04-12 16:19:35.823: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:19:35.823: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/
+04-12 16:19:35.829: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV盒子,seviceType:
+04-12 16:19:35.829: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:19:35.829: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:19:35.829: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:9bfdcbdd-31ea-4933-bcc1-fa3727165c71
+04-12 16:19:35.829: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:19:35.830: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/
+04-12 16:19:44.016: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV智能电视,seviceType:
+04-12 16:19:44.016: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:19:44.016: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:19:44.016: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:a9715499-6856-4941-932e-dd34758126ce
+04-12 16:19:44.016: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:19:44.016: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/
+04-12 16:19:44.030: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV智能电视,seviceType:
+04-12 16:19:44.030: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:19:44.030: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:19:44.030: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:1004d9b2-96d8-4566-902a-95bf9ecaa4e1
+04-12 16:19:44.030: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:19:44.030: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/
+04-12 16:19:44.885: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV智能电视,seviceType:
+04-12 16:19:44.885: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:19:44.885: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:19:44.885: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:74c01828-7b98-4027-b42c-ed7148380296
+04-12 16:19:44.885: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:19:44.885: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/
+04-12 16:19:45.318: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV智能电视,seviceType:
+04-12 16:19:45.318: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:19:45.318: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:19:45.318: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:f5ca497f-ad03-4005-b008-aee3e7d44413
+04-12 16:19:45.318: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:19:45.318: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/
+04-12 16:19:45.325: E/UpnpDeviceListFragment(10994): New device detected DisplayString: LEBO Foundation Lebo 1.0.1,frindlyName:乐投O6,seviceType:
+04-12 16:19:45.325: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:19:45.325: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:19:45.325: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:5779c25e-0994-4bf2-b262-968b47e9d0cd
+04-12 16:19:45.325: E/UpnpDeviceListFragment(10994): getPresentationURL = 
+04-12 16:19:45.326: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = LEBO Foundation,ManufacturerURL = http://www.hpplay.cn,ModelURL = http://www.hpplay.cn,ModelName = http://www.hpplay.cn
+04-12 16:19:45.673: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV Media Center 1.0,frindlyName:PPTV多屏互动服务器 - ITA-1412-0032,seviceType:
+04-12 16:19:45.673: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:19:45.673: E/UpnpDeviceListFragment(10994): 	ContentDirectory : schemas-upnp-org:ContentDirectory:1,uuid:234b9462-429d-11db-b130-54EE7506B402
+04-12 16:19:45.673: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:19:45.674: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/
+04-12 16:19:45.696: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPBOX mini,seviceType:
+04-12 16:19:45.696: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:19:45.696: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:19:45.696: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:eb58dc8f-e60e-42bf-9c25-6c181a9d53e0
+04-12 16:19:45.696: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:19:45.697: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/
+04-12 16:19:45.834: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPBOX mini,seviceType:
+04-12 16:19:45.834: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:19:45.834: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:19:45.834: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:81491ed6-59cf-42ee-b5ef-8054e73699a3
+04-12 16:19:45.834: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:19:45.834: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/
+04-12 16:19:50.112: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV智能电视,seviceType:
+04-12 16:19:50.112: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:19:50.112: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:19:50.112: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:ca02d406-bf5e-4edc-9fd6-368fb21e83ae
+04-12 16:19:50.112: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:19:50.112: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/
+04-12 16:19:55.600: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPBOX mini,seviceType:
+04-12 16:19:55.600: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:19:55.600: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:19:55.600: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:c01fbc2c-17b7-4234-8283-2605acf6b3ec
+04-12 16:19:55.600: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:19:55.600: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/
+04-12 16:20:14.012: E/UpnpDeviceListFragment(10994): New device detected DisplayString: LEBO Foundation Lebo 1.0.1,frindlyName:乐投R5,seviceType:
+04-12 16:20:14.012: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:20:14.012: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:20:14.012: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:50d498a3-002e-4364-b5f3-71cab63d6721
+04-12 16:20:14.012: E/UpnpDeviceListFragment(10994): getPresentationURL = 
+04-12 16:20:14.012: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = LEBO Foundation,ManufacturerURL = http://www.hpplay.cn,ModelURL = http://www.hpplay.cn,ModelName = http://www.hpplay.cn
+04-12 16:20:16.004: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Xiaomi MediaRenderer 1,frindlyName:客厅的小米盒子,seviceType:
+04-12 16:20:16.004: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:20:16.004: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1
+04-12 16:20:16.004: E/UpnpDeviceListFragment(10994): 	RController : mi-com:RController:1,uuid:d13be795-96b2-7a7d-ffff-ffffc7831a22
+04-12 16:20:16.004: E/UpnpDeviceListFragment(10994): getPresentationURL = device_presentation_page.html
+04-12 16:20:16.004: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Xiaomi,ManufacturerURL = http://www.xiaomi.com/,ModelURL = http://www.xiaomi.com/hezi,ModelName = http://www.xiaomi.com/hezi
+04-12 16:20:18.490: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV Media Center 1.0,frindlyName:PPTV多屏互动服务器 - ITA-1505-0017,seviceType:
+04-12 16:20:18.490: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:20:18.490: E/UpnpDeviceListFragment(10994): 	ContentDirectory : schemas-upnp-org:ContentDirectory:1,uuid:234b9462-429d-11db-b130-4CBB587F919F
+04-12 16:20:18.490: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:20:18.490: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/
+04-12 16:20:19.110: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV多屏互动播放器 - ITA-1505-0024,seviceType:
+04-12 16:20:19.110: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:20:19.110: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:20:19.110: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:334b9462-429d-11db-b130-4CBB587F9381
+04-12 16:20:19.111: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:20:19.111: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/
+04-12 16:20:19.257: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV多屏互动播放器 - ITA-1412-0032,seviceType:
+04-12 16:20:19.257: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:20:19.257: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:20:19.257: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:334b9462-429d-11db-b130-54EE7506B402
+04-12 16:20:19.257: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:20:19.257: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/
+04-12 16:20:19.613: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV盒子,seviceType:
+04-12 16:20:19.613: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:20:19.613: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:20:19.613: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:4c1d626b-5af6-4248-8edc-a52ae00aa8dc
+04-12 16:20:19.613: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:20:19.614: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/
+04-12 16:20:19.688: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV智能电视,seviceType:
+04-12 16:20:19.688: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:20:19.688: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:20:19.688: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:9e59685a-b226-4ab0-b08c-ffbcd5c1f49b
+04-12 16:20:19.688: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:20:19.688: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/
+04-12 16:20:19.693: E/UpnpDeviceListFragment(10994): New device detected DisplayString: LEBO Foundation Lebo 1.0.1,frindlyName:乐投(442),seviceType:
+04-12 16:20:19.693: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:20:19.693: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:20:19.693: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:abcad6c1-6ff3-4562-bb11-725ea9f54ba5
+04-12 16:20:19.693: E/UpnpDeviceListFragment(10994): getPresentationURL = 
+04-12 16:20:19.694: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = LEBO Foundation,ManufacturerURL = http://www.hpplay.cn,ModelURL = http://www.hpplay.cn,ModelName = http://www.hpplay.cn
+04-12 16:20:19.697: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPBOX mini,seviceType:
+04-12 16:20:19.697: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:20:19.697: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:20:19.697: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:ccbde06e-de0b-4c25-a708-02f5d7b1602d
+04-12 16:20:19.697: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:20:19.697: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/
+04-12 16:20:19.748: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV智能电视,seviceType:
+04-12 16:20:19.748: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:20:19.748: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:20:19.748: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:8c699ff7-2d0f-4226-96bc-802adac4ffd1
+04-12 16:20:19.748: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:20:19.748: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/
+04-12 16:20:19.979: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV智能电视,seviceType:
+04-12 16:20:19.979: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:20:19.979: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:20:19.979: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:49895a61-9015-4c58-abb6-e99b1c269fac
+04-12 16:20:19.979: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:20:19.979: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/
+04-12 16:20:20.335: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV智能电视,seviceType:
+04-12 16:20:20.335: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:20:20.335: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:20:20.335: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:66fa886a-4196-4f39-a793-bce3f00e5c3b
+04-12 16:20:20.335: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:20:20.335: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/
+04-12 16:20:24.150: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV智能电视,seviceType:
+04-12 16:20:24.150: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:20:24.150: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:20:24.150: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:a2b02e5b-ba7f-437f-b5c0-71da957b753a
+04-12 16:20:24.150: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:20:24.150: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/
+04-12 16:20:30.329: E/UpnpDeviceListFragment(10994): New device detected DisplayString: TV Media Render 1.0,frindlyName:10.200.91.78,seviceType:
+04-12 16:20:30.329: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:20:30.329: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:20:30.329: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:6acabb86-fa9b-401f-8552-d888b3c5d91f
+04-12 16:20:30.329: E/UpnpDeviceListFragment(10994): getPresentationURL = 
+04-12 16:20:30.329: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = TV,ManufacturerURL = ,ModelURL = ,ModelName = 
+04-12 16:20:30.360: E/NetworkStats(924): success. readNetworkStatsDetail size = 60
+04-12 16:20:30.360: E/NetworkStats(924): success. readNetworkStatsDetailWithPids end.
+04-12 16:20:30.375: E/NetworkStats(924): success. readNetworkStatsDetailWithPids size = 44
+04-12 16:20:30.376: E/NetworkStats(924): success. readNetworkStatsDetailWithPids end.
+04-12 16:20:35.501: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV智能电视,seviceType:
+04-12 16:20:35.501: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:20:35.501: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:20:35.501: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:4a734373-e5be-4548-8dad-dae960ba7cf1
+04-12 16:20:35.502: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:20:35.502: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/
+04-12 16:20:38.252: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV智能电视,seviceType:
+04-12 16:20:38.252: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:20:38.252: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:20:38.252: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:b528de6d-bf1a-43a8-9809-7f480b1785b6
+04-12 16:20:38.252: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:20:38.252: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/
+04-12 16:20:40.523: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV智能电视,seviceType:
+04-12 16:20:40.523: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:20:40.523: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:20:40.523: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:0defac4d-c4af-4f4a-b6a8-43565ee85993
+04-12 16:20:40.523: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:20:40.523: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/
+04-12 16:20:58.032: E/UpnpDeviceListFragment(10994): New device detected DisplayString: xminwang的微鲸电视 1,frindlyName:xminwang的微鲸电视,seviceType:
+04-12 16:20:58.032: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:20:58.032: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:20:58.032: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:08bd58f5-e580-4a8e-9c0a-8b1d2aff5dae
+04-12 16:20:58.032: E/UpnpDeviceListFragment(10994): getPresentationURL = 
+04-12 16:20:58.032: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = xminwang的微鲸电视,ManufacturerURL = http://www.whaley.cn/,ModelURL = http://www.whaley.cn/,ModelName = http://www.whaley.cn/
+04-12 16:21:04.119: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Corporation 2.0 dpkk 1,frindlyName:X50Airc4fd,seviceType:
+04-12 16:21:04.119: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:21:04.119: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:21:04.119: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:s250C80E776DC4FD
+04-12 16:21:04.119: E/UpnpDeviceListFragment(10994): getPresentationURL = 
+04-12 16:21:04.119: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Corporation 2.0,ManufacturerURL = http://www.idpkk.com,ModelURL = http://www.idpkk.com,ModelName = http://www.idpkk.com
+04-12 16:21:11.692: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV智能电视,seviceType:
+04-12 16:21:11.692: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:21:11.692: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:21:11.692: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:f9af1bca-b1fa-42d1-a9e9-ab683bb651b1
+04-12 16:21:11.692: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:21:11.692: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/
+04-12 16:21:22.591: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV智能电视,seviceType:
+04-12 16:21:22.591: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:21:22.591: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 16:21:22.591: E/UpnpDeviceListFragment(10994): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:f5ca497f-ad03-4005-b008-aee3e7d44413
+04-12 16:21:22.591: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:21:22.591: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/
+04-12 16:21:29.593: E/UpnpDeviceListFragment(10994): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV智能电视,seviceType:
+04-12 16:21:29.593: E/UpnpDeviceListFragment(10994): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 16:21:29.593: E/UpnpDeviceListFragment(10994): 	RenderingControl : schemas-upnp-org:RenderingControl:1,uuid:aec9bea8-c9f9-4641-b12d-d9cfe872097a
+04-12 16:21:29.593: E/UpnpDeviceListFragment(10994): getPresentationURL = http://www.pptv.com/
+04-12 16:21:29.593: E/UpnpDeviceListFragment(10994): Manufacturer info : Manufacturer = Team PPTV,ManufacturerURL = http://www.pptv.com/,ModelURL = http://www.pptv.com/,ModelName = http://www.pptv.com/

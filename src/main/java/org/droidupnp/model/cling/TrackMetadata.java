@@ -170,7 +170,7 @@ public class TrackMetadata {
 		}
 
 		String xml = sw.toString();
-		Log.d(TAG, "TrackMetadata : " + xml);
+		Log.d(TAG, "getXML TrackMetadata : " + xml);
 
 		return xml;
 	}

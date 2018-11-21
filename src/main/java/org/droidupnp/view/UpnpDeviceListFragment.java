@@ -126,10 +126,16 @@ public abstract class UpnpDeviceListFragment extends ListFragment implements IDe
 	@Override
 	public void addedDevice(final IUpnpDevice device)
 	{
-		Log.v(TAG, "New device detected DisplayString: " + device.getDisplayString() + ",frindlyName:"+device.getFriendlyName()+",seviceType:"+device.getExtendedInformation()+",uid:" + device.getUID());
-		Log.v(TAG,"printService:");
+		Log.e(TAG, "New device detected DisplayString: " + device.getDisplayString() + ",frindlyName:"+device.getFriendlyName()+",seviceType:"+device.getExtendedInformation()+",uuid:" + device.getUID());
+		Log.e(TAG,"printService:");
 		device.printService();
-
+		Log.e(TAG,"getPresentationURL = " + device.getPresentationURL());
+		Log.e(TAG,"BaseURL = " + device.getXMLURL());
+		Log.e(TAG,"deviceType = " + device.getDeviceType());
+        Log.e(TAG,
+                "Manufacturer info : Manufacturer = " + device.getManufacturer() + ",manufacturerURL = "
+                        + device.getManufacturerURL() + " , modelURL = " + device.getModelURL() + " , modelName = "
+                        + device.getModelURL() + " , modelNumber = " + device.getModelNumber() + " , modelDescription = " + device.getModelDesc());
 		final DeviceDisplay d = new DeviceDisplay(device, extendedInformation);
 
 		if (getActivity() != null) // Visible

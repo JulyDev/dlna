@@ -62,6 +62,7 @@ public class RendererCommand implements Runnable, IRendererCommand {
 	private static final String TAG = "RendererCommand";
 
 	private final RendererState rendererState;
+
 	private final ControlPoint controlPoint;
 
 	public Thread thread;
@@ -122,8 +123,9 @@ public class RendererCommand implements Runnable, IRendererCommand {
 	@Override
 	public void commandPlay()
 	{
-		if (getAVTransportService() == null)
+		if (getAVTransportService() == null) {
 			return;
+		}
 
 		controlPoint.execute(new Play(getAVTransportService()) {
 			@Override
@@ -278,6 +280,7 @@ public class RendererCommand implements Runnable, IRendererCommand {
 	{
 		Log.i(TAG, "Set uri to " + uri);
 
+//		controlPoint.execute(new SetAVTransportURI(getAVTransportService(),uri) {
 		controlPoint.execute(new SetAVTransportURI(getAVTransportService(), uri, trackMetadata.getXML()) {
 
 			@Override
@@ -324,6 +327,9 @@ public class RendererCommand implements Runnable, IRendererCommand {
 		final TrackMetadata trackMetadata = new TrackMetadata(upnpItem.getId(), upnpItem.getTitle(),
 				upnpItem.getCreator(), "", "", upnpItem.getFirstResource().getValue(),
 				"object.item." + type);
+//		final TrackMetadata trackMetadata = new TrackMetadata("", "",
+//				"", "", "", upnpItem.getFirstResource().getValue(),
+//				"object.item." + type);
 
 		Log.i(TAG, "TrackMetadata : "+trackMetadata.toString());
 
@@ -383,7 +389,8 @@ public class RendererCommand implements Runnable, IRendererCommand {
 			@Override
 			public void received(ActionInvocation arg0, PositionInfo arg1)
 			{
-				Log.d(TAG, "Receive position info ! " + arg1);
+				Log.d(TAG, "Receive position info ! " + arg1+",postioninfo.getTrackMetaData()= " + arg1.getTrackMetaData());
+				Log.d(TAG, "Receive position info ! " + " TrackDurationSeconds= " + arg1.getTrackDurationSeconds() + ",getTrackElapsedSeconds= " + arg1.getTrackElapsedSeconds());
 				rendererState.setPositionInfo(arg1);
 			}
 

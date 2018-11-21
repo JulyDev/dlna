@@ -213,6 +213,9 @@ public class RendererFragment extends Fragment implements Observer
         updateRenderer();
     }
 
+    /**
+     * 更新UI
+     */
     public void updateRenderer()
     {
         Log.v(TAG, "updateRenderer");
@@ -476,6 +479,7 @@ public class RendererFragment extends Fragment implements Observer
 
                     int position = seekBar.getProgress();
 
+                    // t是？
                     long t = (long) ((1.0 - ((double) seekBar.getMax() - position) / (seekBar.getMax()))
                             * rendererState.getDurationSeconds());
                     long h = t / 3600;
@@ -483,6 +487,7 @@ public class RendererFragment extends Fragment implements Observer
                     long s = t - h * 3600 - m * 60;
                     String seek = formatTime(h, m, s);
 
+                    Log.d(TAG, "Seek to seekBar.getProgress()  = "+ position + ",t= " + t + ",seekBar.getMax() = " +seekBar.getMax());
                     Toast.makeText(getActivity().getApplicationContext(), "Seek to " + seek, Toast.LENGTH_SHORT).show();
                     Log.d(TAG, "Seek to " + seek);
                     if (rendererCommand != null)

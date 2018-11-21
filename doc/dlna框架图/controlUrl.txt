@@ -1,0 +1,338 @@
+04-12 17:09:34.289: E/Parcel(18371): Reading a NULL string not supported here.
+04-12 17:09:34.398: E/Parcel(18736): Reading a NULL string not supported here.
+04-12 17:09:34.480: E/HalleyAgent(20518): detector failed on initiation.
+04-12 17:09:34.541: E/Parcel(20518): Reading a NULL string not supported here.
+04-12 17:09:34.541: E/Parcel(20518): Reading a NULL string not supported here.
+04-12 17:09:34.542: E/Parcel(20518): Reading a NULL string not supported here.
+04-12 17:09:34.542: E/Parcel(20518): Reading a NULL string not supported here.
+04-12 17:09:34.543: E/Parcel(20518): Reading a NULL string not supported here.
+04-12 17:09:34.543: E/Parcel(20518): Reading a NULL string not supported here.
+04-12 17:09:34.544: E/Parcel(20518): Reading a NULL string not supported here.
+04-12 17:09:34.549: E/Parcel(20518): Reading a NULL string not supported here.
+04-12 17:09:34.554: E/Parcel(20518): Reading a NULL string not supported here.
+04-12 17:09:34.554: E/Parcel(20518): Reading a NULL string not supported here.
+04-12 17:09:34.556: E/Parcel(20518): Reading a NULL string not supported here.
+04-12 17:09:34.556: E/Parcel(20518): Reading a NULL string not supported here.
+04-12 17:09:34.589: E/Parcel(20518): Reading a NULL string not supported here.
+04-12 17:09:34.589: E/Parcel(20518): Reading a NULL string not supported here.
+04-12 17:09:34.590: E/Parcel(20518): Reading a NULL string not supported here.
+04-12 17:09:34.590: E/Parcel(20518): Reading a NULL string not supported here.
+04-12 17:09:34.599: E/Parcel(20518): Reading a NULL string not supported here.
+04-12 17:09:34.599: E/Parcel(20518): Reading a NULL string not supported here.
+04-12 17:09:34.610: E/Parcel(20518): Reading a NULL string not supported here.
+04-12 17:09:34.610: E/Parcel(20518): Reading a NULL string not supported here.
+04-12 17:09:34.612: E/Parcel(20518): Reading a NULL string not supported here.
+04-12 17:09:34.612: E/Parcel(20518): Reading a NULL string not supported here.
+04-12 17:09:34.781: E/dalvikvm(20557): /system/framework/am.jar odex has stale dependencies
+04-12 17:09:34.798: E/Parcel(20518): Reading a NULL string not supported here.
+04-12 17:09:34.798: E/Parcel(20518): Reading a NULL string not supported here.
+04-12 17:09:34.934: E/memtrack(20557): Couldn't load memtrack module (No such file or directory)
+04-12 17:09:34.934: E/android.os.Debug(20557): failed to load memtrack module: -2
+04-12 17:09:35.008: E/ActivityManager(924): START {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=org.droidupnp/.Main u=0} from pid 20557
+04-12 17:09:35.255: E/WifiManager(20608): mWifiServiceMessenger == null
+04-12 17:09:35.498: E/WifiManager(20608): mWifiServiceMessenger == null
+04-12 17:09:35.727: E/NetworkStats(924): success. readNetworkStatsDetail size = 60
+04-12 17:09:35.727: E/NetworkStats(924): success. readNetworkStatsDetailWithPids end.
+04-12 17:09:35.736: E/NetworkStats(924): success. readNetworkStatsDetailWithPids size = 44
+04-12 17:09:35.737: E/NetworkStats(924): success. readNetworkStatsDetailWithPids end.
+04-12 17:09:35.827: E/UpnpDeviceListFragment(20608): New device detected DisplayString: DroidUPnP,frindlyName:OPPO R7,seviceType:
+04-12 17:09:35.827: E/UpnpDeviceListFragment(20608): 	ContentDirectory : schemas-upnp-org:ContentDirectory:1,uuid:00000000-0000-0000-0000-00000000000a
+04-12 17:09:35.827: E/UpnpDeviceListFragment(20608): printService:
+04-12 17:09:35.829: E/UpnpDeviceListFragment(20608): 	 Service : (LocalService) ServiceId: urn:upnp-org:serviceId:ContentDirectory, Manager: (DefaultServiceManager) Implementation: org.droidupnp.model.mediaserver.ContentDirectoryService@42b992f8
+04-12 17:09:35.829: E/UpnpDeviceListFragment(20608): getPresentationURL = 
+04-12 17:09:35.829: E/UpnpDeviceListFragment(20608): BaseURL = 
+04-12 17:09:35.829: E/UpnpDeviceListFragment(20608): Manufacturer info : Manufacturer = DroidUPnP,manufacturerURL = https://github.com/trishika/DroidUPnP , modelURL =  , modelName =  , modelNumber = null , modelDescription = https://github.com/trishika/DroidUPnP
+04-12 17:09:36.908: E/UpnpDeviceListFragment(20608): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV智能电视,seviceType:
+04-12 17:09:36.908: E/UpnpDeviceListFragment(20608): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 17:09:36.908: E/UpnpDeviceListFragment(20608): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 17:09:36.908: E/UpnpDeviceListFragment(20608): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:1004d9b2-96d8-4566-902a-95bf9ecaa4e1
+04-12 17:09:36.908: E/UpnpDeviceListFragment(20608): printService:
+04-12 17:09:36.909: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /RenderingControl/1004d9b2-96d8-4566-902a-95bf9ecaa4e1/scpd.xml
+04-12 17:09:36.910: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.91.65:1398/RenderingControl/1004d9b2-96d8-4566-902a-95bf9ecaa4e1/control.xml
+04-12 17:09:36.910: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /ConnectionManager/1004d9b2-96d8-4566-902a-95bf9ecaa4e1/scpd.xml
+04-12 17:09:36.912: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.91.65:1398/ConnectionManager/1004d9b2-96d8-4566-902a-95bf9ecaa4e1/control.xml
+04-12 17:09:36.913: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /AVTransport/1004d9b2-96d8-4566-902a-95bf9ecaa4e1/scpd.xml
+04-12 17:09:36.915: E/UpnpDeviceListFragment(20608): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV盒子,seviceType:
+04-12 17:09:36.915: E/UpnpDeviceListFragment(20608): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 17:09:36.915: E/UpnpDeviceListFragment(20608): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 17:09:36.915: E/UpnpDeviceListFragment(20608): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:5b23ef6f-0e40-4136-b004-c5cbbe8af9da
+04-12 17:09:36.915: E/UpnpDeviceListFragment(20608): printService:
+04-12 17:09:36.915: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /RenderingControl/5b23ef6f-0e40-4136-b004-c5cbbe8af9da/scpd.xml
+04-12 17:09:36.915: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.91.65:1398/AVTransport/1004d9b2-96d8-4566-902a-95bf9ecaa4e1/control.xml
+04-12 17:09:36.915: E/UpnpDeviceListFragment(20608): getPresentationURL = http://www.pptv.com/
+04-12 17:09:36.915: E/UpnpDeviceListFragment(20608): BaseURL = 
+04-12 17:09:36.916: E/UpnpDeviceListFragment(20608): Manufacturer info : Manufacturer = Team PPTV,manufacturerURL = http://www.pptv.com/ , modelURL = http://www.pptv.com/ , modelName = http://www.pptv.com/ , modelNumber = 1.0 , modelDescription = PPTV Media Renderer
+04-12 17:09:36.917: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.91.102:1314/RenderingControl/5b23ef6f-0e40-4136-b004-c5cbbe8af9da/control.xml
+04-12 17:09:36.918: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /ConnectionManager/5b23ef6f-0e40-4136-b004-c5cbbe8af9da/scpd.xml
+04-12 17:09:36.920: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.91.102:1314/ConnectionManager/5b23ef6f-0e40-4136-b004-c5cbbe8af9da/control.xml
+04-12 17:09:36.921: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /AVTransport/5b23ef6f-0e40-4136-b004-c5cbbe8af9da/scpd.xml
+04-12 17:09:36.922: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.91.102:1314/AVTransport/5b23ef6f-0e40-4136-b004-c5cbbe8af9da/control.xml
+04-12 17:09:36.923: E/UpnpDeviceListFragment(20608): getPresentationURL = http://www.pptv.com/
+04-12 17:09:36.923: E/UpnpDeviceListFragment(20608): BaseURL = 
+04-12 17:09:36.923: E/UpnpDeviceListFragment(20608): Manufacturer info : Manufacturer = Team PPTV,manufacturerURL = http://www.pptv.com/ , modelURL = http://www.pptv.com/ , modelName = http://www.pptv.com/ , modelNumber = 1.0 , modelDescription = PPTV Media Renderer
+04-12 17:09:36.958: E/UpnpDeviceListFragment(20608): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV智能电视,seviceType:
+04-12 17:09:36.958: E/UpnpDeviceListFragment(20608): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 17:09:36.958: E/UpnpDeviceListFragment(20608): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 17:09:36.958: E/UpnpDeviceListFragment(20608): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:ca02d406-bf5e-4edc-9fd6-368fb21e83ae
+04-12 17:09:36.958: E/UpnpDeviceListFragment(20608): printService:
+04-12 17:09:36.959: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /ConnectionManager/ca02d406-bf5e-4edc-9fd6-368fb21e83ae/scpd.xml
+04-12 17:09:36.962: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.91.86:1166/ConnectionManager/ca02d406-bf5e-4edc-9fd6-368fb21e83ae/control.xml
+04-12 17:09:36.962: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /AVTransport/ca02d406-bf5e-4edc-9fd6-368fb21e83ae/scpd.xml
+04-12 17:09:36.964: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.91.86:1166/AVTransport/ca02d406-bf5e-4edc-9fd6-368fb21e83ae/control.xml
+04-12 17:09:36.965: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /RenderingControl/ca02d406-bf5e-4edc-9fd6-368fb21e83ae/scpd.xml
+04-12 17:09:36.968: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.91.86:1166/RenderingControl/ca02d406-bf5e-4edc-9fd6-368fb21e83ae/control.xml
+04-12 17:09:36.968: E/UpnpDeviceListFragment(20608): getPresentationURL = http://www.pptv.com/
+04-12 17:09:36.969: E/UpnpDeviceListFragment(20608): BaseURL = 
+04-12 17:09:36.969: E/UpnpDeviceListFragment(20608): Manufacturer info : Manufacturer = Team PPTV,manufacturerURL = http://www.pptv.com/ , modelURL = http://www.pptv.com/ , modelName = http://www.pptv.com/ , modelNumber = 1.0 , modelDescription = PPTV Media Renderer
+04-12 17:09:37.411: E/UpnpDeviceListFragment(20608): New device detected DisplayString: LEBO Foundation Lebo 1.0.1,frindlyName:乐投E5,seviceType:
+04-12 17:09:37.411: E/UpnpDeviceListFragment(20608): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 17:09:37.411: E/UpnpDeviceListFragment(20608): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 17:09:37.411: E/UpnpDeviceListFragment(20608): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:6792df55-ecad-4a1e-95cf-6a382838c6e1
+04-12 17:09:37.412: E/UpnpDeviceListFragment(20608): printService:
+04-12 17:09:37.412: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /AVTransport/6792df55-ecad-4a1e-95cf-6a382838c6e1/scpd.xml
+04-12 17:09:37.416: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.91.71:1970/AVTransport/6792df55-ecad-4a1e-95cf-6a382838c6e1/control.xml
+04-12 17:09:37.417: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /ConnectionManager/6792df55-ecad-4a1e-95cf-6a382838c6e1/scpd.xml
+04-12 17:09:37.420: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.91.71:1970/ConnectionManager/6792df55-ecad-4a1e-95cf-6a382838c6e1/control.xml
+04-12 17:09:37.421: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /RenderingControl/6792df55-ecad-4a1e-95cf-6a382838c6e1/scpd.xml
+04-12 17:09:37.424: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.91.71:1970/RenderingControl/6792df55-ecad-4a1e-95cf-6a382838c6e1/control.xml
+04-12 17:09:37.424: E/UpnpDeviceListFragment(20608): getPresentationURL = 
+04-12 17:09:37.424: E/UpnpDeviceListFragment(20608): BaseURL = 
+04-12 17:09:37.426: E/UpnpDeviceListFragment(20608): Manufacturer info : Manufacturer = LEBO Foundation,manufacturerURL = http://www.hpplay.cn , modelURL = http://www.hpplay.cn , modelName = http://www.hpplay.cn , modelNumber = 1.0.1 , modelDescription = Lebo-Media Renderer
+04-12 17:09:37.592: E/UpnpDeviceListFragment(20608): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV智能电视,seviceType:
+04-12 17:09:37.592: E/UpnpDeviceListFragment(20608): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 17:09:37.592: E/UpnpDeviceListFragment(20608): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 17:09:37.592: E/UpnpDeviceListFragment(20608): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:01e17607-f197-4bfd-b7ac-9dc4a106e07f
+04-12 17:09:37.592: E/UpnpDeviceListFragment(20608): printService:
+04-12 17:09:37.593: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /AVTransport/01e17607-f197-4bfd-b7ac-9dc4a106e07f/scpd.xml
+04-12 17:09:37.596: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.90.54:1410/AVTransport/01e17607-f197-4bfd-b7ac-9dc4a106e07f/control.xml
+04-12 17:09:37.597: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /ConnectionManager/01e17607-f197-4bfd-b7ac-9dc4a106e07f/scpd.xml
+04-12 17:09:37.599: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.90.54:1410/ConnectionManager/01e17607-f197-4bfd-b7ac-9dc4a106e07f/control.xml
+04-12 17:09:37.599: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /RenderingControl/01e17607-f197-4bfd-b7ac-9dc4a106e07f/scpd.xml
+04-12 17:09:37.602: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.90.54:1410/RenderingControl/01e17607-f197-4bfd-b7ac-9dc4a106e07f/control.xml
+04-12 17:09:37.602: E/UpnpDeviceListFragment(20608): getPresentationURL = http://www.pptv.com/
+04-12 17:09:37.602: E/UpnpDeviceListFragment(20608): BaseURL = 
+04-12 17:09:37.603: E/UpnpDeviceListFragment(20608): Manufacturer info : Manufacturer = Team PPTV,manufacturerURL = http://www.pptv.com/ , modelURL = http://www.pptv.com/ , modelName = http://www.pptv.com/ , modelNumber = 1.0 , modelDescription = PPTV Media Renderer
+04-12 17:09:37.675: E/UpnpDeviceListFragment(20608): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV盒子,seviceType:
+04-12 17:09:37.675: E/UpnpDeviceListFragment(20608): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 17:09:37.675: E/UpnpDeviceListFragment(20608): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 17:09:37.675: E/UpnpDeviceListFragment(20608): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:4c1d626b-5af6-4248-8edc-a52ae00aa8dc
+04-12 17:09:37.675: E/UpnpDeviceListFragment(20608): printService:
+04-12 17:09:37.676: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /ConnectionManager/4c1d626b-5af6-4248-8edc-a52ae00aa8dc/scpd.xml
+04-12 17:09:37.678: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.91.118:1434/ConnectionManager/4c1d626b-5af6-4248-8edc-a52ae00aa8dc/control.xml
+04-12 17:09:37.678: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /AVTransport/4c1d626b-5af6-4248-8edc-a52ae00aa8dc/scpd.xml
+04-12 17:09:37.680: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.91.118:1434/AVTransport/4c1d626b-5af6-4248-8edc-a52ae00aa8dc/control.xml
+04-12 17:09:37.681: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /RenderingControl/4c1d626b-5af6-4248-8edc-a52ae00aa8dc/scpd.xml
+04-12 17:09:37.682: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.91.118:1434/RenderingControl/4c1d626b-5af6-4248-8edc-a52ae00aa8dc/control.xml
+04-12 17:09:37.683: E/UpnpDeviceListFragment(20608): getPresentationURL = http://www.pptv.com/
+04-12 17:09:37.683: E/UpnpDeviceListFragment(20608): BaseURL = 
+04-12 17:09:37.683: E/UpnpDeviceListFragment(20608): Manufacturer info : Manufacturer = Team PPTV,manufacturerURL = http://www.pptv.com/ , modelURL = http://www.pptv.com/ , modelName = http://www.pptv.com/ , modelNumber = 1.0 , modelDescription = PPTV Media Renderer
+04-12 17:09:37.777: E/UpnpDeviceListFragment(20608): New device detected DisplayString: Amlogic Corporation AV Renderer,frindlyName:DLNA-Player-MediaCenter,seviceType:
+04-12 17:09:37.777: E/UpnpDeviceListFragment(20608): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 17:09:37.777: E/UpnpDeviceListFragment(20608): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 17:09:37.777: E/UpnpDeviceListFragment(20608): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:bda4efc0-db0c-41f8-b7d5-94:a1:a2:81:a7:a4
+04-12 17:09:37.777: E/UpnpDeviceListFragment(20608): printService:
+04-12 17:09:37.777: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: INTEL.AVTransport.scpd.xml
+04-12 17:09:37.780: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.90.145:38520/service/AVTransport_control
+04-12 17:09:37.780: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: INTEL.RenderingControl.scpd.xml
+04-12 17:09:37.782: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.90.145:38520/service/RenderingControl_control
+04-12 17:09:37.783: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: INTEL.ConnectionManager.scpd.xml
+04-12 17:09:37.788: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.90.145:38520/service/ConnectionManager_control
+04-12 17:09:37.790: E/UpnpDeviceListFragment(20608): getPresentationURL = 
+04-12 17:09:37.791: E/UpnpDeviceListFragment(20608): BaseURL = http://10.200.90.145:38520
+04-12 17:09:37.791: E/UpnpDeviceListFragment(20608): Manufacturer info : Manufacturer = Amlogic Corporation,manufacturerURL = http://www.amlogic.com , modelURL = http://www.amlogic.com/technology/upnp , modelName = http://www.amlogic.com/technology/upnp , modelNumber = null , modelDescription = Intel AV Media Renderer device
+04-12 17:09:37.829: E/UpnpDeviceListFragment(20608): New device detected DisplayString: Samsung Electronics UA50KU6310 AllShare1.0,frindlyName:[TV] Living room,seviceType:
+04-12 17:09:37.829: E/UpnpDeviceListFragment(20608): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 17:09:37.829: E/UpnpDeviceListFragment(20608): 	StreamSplicing : schemas-rvualliance-org:StreamSplicing:1
+04-12 17:09:37.829: E/UpnpDeviceListFragment(20608): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 17:09:37.829: E/UpnpDeviceListFragment(20608): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:3b7e45c6-3c77-4a28-8b83-a1b16e1aecf9
+04-12 17:09:37.830: E/UpnpDeviceListFragment(20608): printService:
+04-12 17:09:37.830: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /RenderingControl_1.xml
+04-12 17:09:37.832: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.90.73:9197/upnp/control/RenderingControl1
+04-12 17:09:37.832: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /ConnectionManager_1.xml
+04-12 17:09:37.836: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.90.73:9197/upnp/control/ConnectionManager1
+04-12 17:09:37.836: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /StreamSplicing_1.xml
+04-12 17:09:37.842: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.90.73:9197/upnp/control/StreamSplicing1
+04-12 17:09:37.843: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /AVTransport_1.xml
+04-12 17:09:37.844: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.90.73:9197/upnp/control/AVTransport1
+04-12 17:09:37.844: E/UpnpDeviceListFragment(20608): getPresentationURL = 
+04-12 17:09:37.844: E/UpnpDeviceListFragment(20608): BaseURL = 
+04-12 17:09:37.844: E/UpnpDeviceListFragment(20608): Manufacturer info : Manufacturer = Samsung Electronics,manufacturerURL = http://www.samsung.com/sec , modelURL = http://www.samsung.com/sec , modelName = http://www.samsung.com/sec , modelNumber = AllShare1.0 , modelDescription = Samsung TV DMR
+04-12 17:09:38.216: E/UpnpDeviceListFragment(20608): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV智能电视,seviceType:
+04-12 17:09:38.216: E/UpnpDeviceListFragment(20608): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 17:09:38.216: E/UpnpDeviceListFragment(20608): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 17:09:38.216: E/UpnpDeviceListFragment(20608): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:1188f2ba-591d-46d2-8fb4-d5768fdb7e11
+04-12 17:09:38.216: E/UpnpDeviceListFragment(20608): printService:
+04-12 17:09:38.217: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /ConnectionManager/1188f2ba-591d-46d2-8fb4-d5768fdb7e11/scpd.xml
+04-12 17:09:38.221: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.90.129:1046/ConnectionManager/1188f2ba-591d-46d2-8fb4-d5768fdb7e11/control.xml
+04-12 17:09:38.221: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /RenderingControl/1188f2ba-591d-46d2-8fb4-d5768fdb7e11/scpd.xml
+04-12 17:09:38.225: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.90.129:1046/RenderingControl/1188f2ba-591d-46d2-8fb4-d5768fdb7e11/control.xml
+04-12 17:09:38.226: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /AVTransport/1188f2ba-591d-46d2-8fb4-d5768fdb7e11/scpd.xml
+04-12 17:09:38.228: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.90.129:1046/AVTransport/1188f2ba-591d-46d2-8fb4-d5768fdb7e11/control.xml
+04-12 17:09:38.228: E/UpnpDeviceListFragment(20608): getPresentationURL = http://www.pptv.com/
+04-12 17:09:38.229: E/UpnpDeviceListFragment(20608): BaseURL = 
+04-12 17:09:38.229: E/UpnpDeviceListFragment(20608): Manufacturer info : Manufacturer = Team PPTV,manufacturerURL = http://www.pptv.com/ , modelURL = http://www.pptv.com/ , modelName = http://www.pptv.com/ , modelNumber = 1.0 , modelDescription = PPTV Media Renderer
+04-12 17:09:38.331: E/UpnpDeviceListFragment(20608): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPBOX mini,seviceType:
+04-12 17:09:38.331: E/UpnpDeviceListFragment(20608): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 17:09:38.331: E/UpnpDeviceListFragment(20608): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 17:09:38.331: E/UpnpDeviceListFragment(20608): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:c01fbc2c-17b7-4234-8283-2605acf6b3ec
+04-12 17:09:38.331: E/UpnpDeviceListFragment(20608): printService:
+04-12 17:09:38.336: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /AVTransport/c01fbc2c-17b7-4234-8283-2605acf6b3ec/scpd.xml
+04-12 17:09:38.342: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.90.237:1046/AVTransport/c01fbc2c-17b7-4234-8283-2605acf6b3ec/control.xml
+04-12 17:09:38.342: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /RenderingControl/c01fbc2c-17b7-4234-8283-2605acf6b3ec/scpd.xml
+04-12 17:09:38.345: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.90.237:1046/RenderingControl/c01fbc2c-17b7-4234-8283-2605acf6b3ec/control.xml
+04-12 17:09:38.345: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /ConnectionManager/c01fbc2c-17b7-4234-8283-2605acf6b3ec/scpd.xml
+04-12 17:09:38.347: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.90.237:1046/ConnectionManager/c01fbc2c-17b7-4234-8283-2605acf6b3ec/control.xml
+04-12 17:09:38.347: E/UpnpDeviceListFragment(20608): getPresentationURL = http://www.pptv.com/
+04-12 17:09:38.348: E/UpnpDeviceListFragment(20608): BaseURL = 
+04-12 17:09:38.348: E/UpnpDeviceListFragment(20608): Manufacturer info : Manufacturer = Team PPTV,manufacturerURL = http://www.pptv.com/ , modelURL = http://www.pptv.com/ , modelName = http://www.pptv.com/ , modelNumber = 1.0 , modelDescription = PPTV Media Renderer
+04-12 17:09:38.528: E/UpnpDeviceListFragment(20608): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV智能电视,seviceType:
+04-12 17:09:38.528: E/UpnpDeviceListFragment(20608): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 17:09:38.528: E/UpnpDeviceListFragment(20608): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 17:09:38.528: E/UpnpDeviceListFragment(20608): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:9e59685a-b226-4ab0-b08c-ffbcd5c1f49b
+04-12 17:09:38.528: E/UpnpDeviceListFragment(20608): printService:
+04-12 17:09:38.528: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /RenderingControl/9e59685a-b226-4ab0-b08c-ffbcd5c1f49b/scpd.xml
+04-12 17:09:38.531: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.91.115:1746/RenderingControl/9e59685a-b226-4ab0-b08c-ffbcd5c1f49b/control.xml
+04-12 17:09:38.532: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /ConnectionManager/9e59685a-b226-4ab0-b08c-ffbcd5c1f49b/scpd.xml
+04-12 17:09:38.536: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.91.115:1746/ConnectionManager/9e59685a-b226-4ab0-b08c-ffbcd5c1f49b/control.xml
+04-12 17:09:38.536: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /AVTransport/9e59685a-b226-4ab0-b08c-ffbcd5c1f49b/scpd.xml
+04-12 17:09:38.538: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.91.115:1746/AVTransport/9e59685a-b226-4ab0-b08c-ffbcd5c1f49b/control.xml
+04-12 17:09:38.538: E/UpnpDeviceListFragment(20608): getPresentationURL = http://www.pptv.com/
+04-12 17:09:38.538: E/UpnpDeviceListFragment(20608): BaseURL = 
+04-12 17:09:38.539: E/UpnpDeviceListFragment(20608): Manufacturer info : Manufacturer = Team PPTV,manufacturerURL = http://www.pptv.com/ , modelURL = http://www.pptv.com/ , modelName = http://www.pptv.com/ , modelNumber = 1.0 , modelDescription = PPTV Media Renderer
+04-12 17:09:38.860: E/UpnpDeviceListFragment(20608): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV智能电视,seviceType:
+04-12 17:09:38.860: E/UpnpDeviceListFragment(20608): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 17:09:38.860: E/UpnpDeviceListFragment(20608): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 17:09:38.860: E/UpnpDeviceListFragment(20608): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:d492e07f-069b-48f5-82b7-abf08ae33fed
+04-12 17:09:38.860: E/UpnpDeviceListFragment(20608): printService:
+04-12 17:09:38.861: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /ConnectionManager/d492e07f-069b-48f5-82b7-abf08ae33fed/scpd.xml
+04-12 17:09:38.864: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.91.47:1902/ConnectionManager/d492e07f-069b-48f5-82b7-abf08ae33fed/control.xml
+04-12 17:09:38.865: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /AVTransport/d492e07f-069b-48f5-82b7-abf08ae33fed/scpd.xml
+04-12 17:09:38.868: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.91.47:1902/AVTransport/d492e07f-069b-48f5-82b7-abf08ae33fed/control.xml
+04-12 17:09:38.868: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /RenderingControl/d492e07f-069b-48f5-82b7-abf08ae33fed/scpd.xml
+04-12 17:09:38.871: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.91.47:1902/RenderingControl/d492e07f-069b-48f5-82b7-abf08ae33fed/control.xml
+04-12 17:09:38.871: E/UpnpDeviceListFragment(20608): getPresentationURL = http://www.pptv.com/
+04-12 17:09:38.871: E/UpnpDeviceListFragment(20608): BaseURL = 
+04-12 17:09:38.871: E/UpnpDeviceListFragment(20608): Manufacturer info : Manufacturer = Team PPTV,manufacturerURL = http://www.pptv.com/ , modelURL = http://www.pptv.com/ , modelName = http://www.pptv.com/ , modelNumber = 1.0 , modelDescription = PPTV Media Renderer
+04-12 17:09:38.986: E/UpnpDeviceListFragment(20608): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV智能电视,seviceType:
+04-12 17:09:38.986: E/UpnpDeviceListFragment(20608): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 17:09:38.986: E/UpnpDeviceListFragment(20608): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 17:09:38.986: E/UpnpDeviceListFragment(20608): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:74c01828-7b98-4027-b42c-ed7148380296
+04-12 17:09:38.986: E/UpnpDeviceListFragment(20608): printService:
+04-12 17:09:38.986: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /RenderingControl/74c01828-7b98-4027-b42c-ed7148380296/scpd.xml
+04-12 17:09:38.988: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.90.219:1386/RenderingControl/74c01828-7b98-4027-b42c-ed7148380296/control.xml
+04-12 17:09:38.988: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /AVTransport/74c01828-7b98-4027-b42c-ed7148380296/scpd.xml
+04-12 17:09:38.990: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.90.219:1386/AVTransport/74c01828-7b98-4027-b42c-ed7148380296/control.xml
+04-12 17:09:38.990: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /ConnectionManager/74c01828-7b98-4027-b42c-ed7148380296/scpd.xml
+04-12 17:09:38.992: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.90.219:1386/ConnectionManager/74c01828-7b98-4027-b42c-ed7148380296/control.xml
+04-12 17:09:38.993: E/UpnpDeviceListFragment(20608): getPresentationURL = http://www.pptv.com/
+04-12 17:09:38.993: E/UpnpDeviceListFragment(20608): BaseURL = 
+04-12 17:09:38.993: E/UpnpDeviceListFragment(20608): Manufacturer info : Manufacturer = Team PPTV,manufacturerURL = http://www.pptv.com/ , modelURL = http://www.pptv.com/ , modelName = http://www.pptv.com/ , modelNumber = 1.0 , modelDescription = PPTV Media Renderer
+04-12 17:09:39.045: E/UpnpDeviceListFragment(20608): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV盒子,seviceType:
+04-12 17:09:39.045: E/UpnpDeviceListFragment(20608): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 17:09:39.045: E/UpnpDeviceListFragment(20608): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 17:09:39.045: E/UpnpDeviceListFragment(20608): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:9bfdcbdd-31ea-4933-bcc1-fa3727165c71
+04-12 17:09:39.045: E/UpnpDeviceListFragment(20608): printService:
+04-12 17:09:39.045: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /RenderingControl/9bfdcbdd-31ea-4933-bcc1-fa3727165c71/scpd.xml
+04-12 17:09:39.048: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.91.27:1938/RenderingControl/9bfdcbdd-31ea-4933-bcc1-fa3727165c71/control.xml
+04-12 17:09:39.048: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /ConnectionManager/9bfdcbdd-31ea-4933-bcc1-fa3727165c71/scpd.xml
+04-12 17:09:39.049: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.91.27:1938/ConnectionManager/9bfdcbdd-31ea-4933-bcc1-fa3727165c71/control.xml
+04-12 17:09:39.050: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /AVTransport/9bfdcbdd-31ea-4933-bcc1-fa3727165c71/scpd.xml
+04-12 17:09:39.051: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.91.27:1938/AVTransport/9bfdcbdd-31ea-4933-bcc1-fa3727165c71/control.xml
+04-12 17:09:39.051: E/UpnpDeviceListFragment(20608): getPresentationURL = http://www.pptv.com/
+04-12 17:09:39.052: E/UpnpDeviceListFragment(20608): BaseURL = 
+04-12 17:09:39.052: E/UpnpDeviceListFragment(20608): Manufacturer info : Manufacturer = Team PPTV,manufacturerURL = http://www.pptv.com/ , modelURL = http://www.pptv.com/ , modelName = http://www.pptv.com/ , modelNumber = 1.0 , modelDescription = PPTV Media Renderer
+04-12 17:09:39.162: E/UpnpDeviceListFragment(20608): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV智能电视,seviceType:
+04-12 17:09:39.162: E/UpnpDeviceListFragment(20608): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 17:09:39.162: E/UpnpDeviceListFragment(20608): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 17:09:39.162: E/UpnpDeviceListFragment(20608): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:82351390-e71d-4e29-8f9b-8e9bf53f7b86
+04-12 17:09:39.162: E/UpnpDeviceListFragment(20608): printService:
+04-12 17:09:39.162: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /RenderingControl/82351390-e71d-4e29-8f9b-8e9bf53f7b86/scpd.xml
+04-12 17:09:39.163: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.90.234:1234/RenderingControl/82351390-e71d-4e29-8f9b-8e9bf53f7b86/control.xml
+04-12 17:09:39.163: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /AVTransport/82351390-e71d-4e29-8f9b-8e9bf53f7b86/scpd.xml
+04-12 17:09:39.163: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.90.234:1234/AVTransport/82351390-e71d-4e29-8f9b-8e9bf53f7b86/control.xml
+04-12 17:09:39.163: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /ConnectionManager/82351390-e71d-4e29-8f9b-8e9bf53f7b86/scpd.xml
+04-12 17:09:39.163: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.90.234:1234/ConnectionManager/82351390-e71d-4e29-8f9b-8e9bf53f7b86/control.xml
+04-12 17:09:39.163: E/UpnpDeviceListFragment(20608): getPresentationURL = http://www.pptv.com/
+04-12 17:09:39.163: E/UpnpDeviceListFragment(20608): BaseURL = 
+04-12 17:09:39.163: E/UpnpDeviceListFragment(20608): Manufacturer info : Manufacturer = Team PPTV,manufacturerURL = http://www.pptv.com/ , modelURL = http://www.pptv.com/ , modelName = http://www.pptv.com/ , modelNumber = 1.0 , modelDescription = PPTV Media Renderer
+04-12 17:09:39.206: E/UpnpDeviceListFragment(20608): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPBOX mini,seviceType:
+04-12 17:09:39.206: E/UpnpDeviceListFragment(20608): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 17:09:39.206: E/UpnpDeviceListFragment(20608): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 17:09:39.206: E/UpnpDeviceListFragment(20608): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:eb58dc8f-e60e-42bf-9c25-6c181a9d53e0
+04-12 17:09:39.206: E/UpnpDeviceListFragment(20608): printService:
+04-12 17:09:39.206: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /AVTransport/eb58dc8f-e60e-42bf-9c25-6c181a9d53e0/scpd.xml
+04-12 17:09:39.206: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.91.42:1417/AVTransport/eb58dc8f-e60e-42bf-9c25-6c181a9d53e0/control.xml
+04-12 17:09:39.206: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /ConnectionManager/eb58dc8f-e60e-42bf-9c25-6c181a9d53e0/scpd.xml
+04-12 17:09:39.207: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.91.42:1417/ConnectionManager/eb58dc8f-e60e-42bf-9c25-6c181a9d53e0/control.xml
+04-12 17:09:39.207: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /RenderingControl/eb58dc8f-e60e-42bf-9c25-6c181a9d53e0/scpd.xml
+04-12 17:09:39.207: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.91.42:1417/RenderingControl/eb58dc8f-e60e-42bf-9c25-6c181a9d53e0/control.xml
+04-12 17:09:39.207: E/UpnpDeviceListFragment(20608): getPresentationURL = http://www.pptv.com/
+04-12 17:09:39.207: E/UpnpDeviceListFragment(20608): BaseURL = 
+04-12 17:09:39.207: E/UpnpDeviceListFragment(20608): Manufacturer info : Manufacturer = Team PPTV,manufacturerURL = http://www.pptv.com/ , modelURL = http://www.pptv.com/ , modelName = http://www.pptv.com/ , modelNumber = 1.0 , modelDescription = PPTV Media Renderer
+04-12 17:09:39.232: E/UpnpDeviceListFragment(20608): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:代码协议,seviceType:
+04-12 17:09:39.232: E/UpnpDeviceListFragment(20608): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 17:09:39.232: E/UpnpDeviceListFragment(20608): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 17:09:39.232: E/UpnpDeviceListFragment(20608): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:91b6b502-b6fe-48f5-ae8b-ce71bc216923
+04-12 17:09:39.232: E/UpnpDeviceListFragment(20608): printService:
+04-12 17:09:39.232: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /RenderingControl/91b6b502-b6fe-48f5-ae8b-ce71bc216923/scpd.xml
+04-12 17:09:39.232: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.91.140:1466/RenderingControl/91b6b502-b6fe-48f5-ae8b-ce71bc216923/control.xml
+04-12 17:09:39.232: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /ConnectionManager/91b6b502-b6fe-48f5-ae8b-ce71bc216923/scpd.xml
+04-12 17:09:39.233: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.91.140:1466/ConnectionManager/91b6b502-b6fe-48f5-ae8b-ce71bc216923/control.xml
+04-12 17:09:39.233: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /AVTransport/91b6b502-b6fe-48f5-ae8b-ce71bc216923/scpd.xml
+04-12 17:09:39.233: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.91.140:1466/AVTransport/91b6b502-b6fe-48f5-ae8b-ce71bc216923/control.xml
+04-12 17:09:39.233: E/UpnpDeviceListFragment(20608): getPresentationURL = http://www.pptv.com/
+04-12 17:09:39.233: E/UpnpDeviceListFragment(20608): BaseURL = 
+04-12 17:09:39.233: E/UpnpDeviceListFragment(20608): Manufacturer info : Manufacturer = Team PPTV,manufacturerURL = http://www.pptv.com/ , modelURL = http://www.pptv.com/ , modelName = http://www.pptv.com/ , modelNumber = 1.0 , modelDescription = PPTV Media Renderer
+04-12 17:09:39.636: E/UpnpDeviceListFragment(20608): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPBOX mini,seviceType:
+04-12 17:09:39.636: E/UpnpDeviceListFragment(20608): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 17:09:39.636: E/UpnpDeviceListFragment(20608): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 17:09:39.636: E/UpnpDeviceListFragment(20608): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:81491ed6-59cf-42ee-b5ef-8054e73699a3
+04-12 17:09:39.636: E/UpnpDeviceListFragment(20608): printService:
+04-12 17:09:39.636: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /AVTransport/81491ed6-59cf-42ee-b5ef-8054e73699a3/scpd.xml
+04-12 17:09:39.636: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.90.198:1810/AVTransport/81491ed6-59cf-42ee-b5ef-8054e73699a3/control.xml
+04-12 17:09:39.636: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /RenderingControl/81491ed6-59cf-42ee-b5ef-8054e73699a3/scpd.xml
+04-12 17:09:39.637: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.90.198:1810/RenderingControl/81491ed6-59cf-42ee-b5ef-8054e73699a3/control.xml
+04-12 17:09:39.637: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /ConnectionManager/81491ed6-59cf-42ee-b5ef-8054e73699a3/scpd.xml
+04-12 17:09:39.637: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.90.198:1810/ConnectionManager/81491ed6-59cf-42ee-b5ef-8054e73699a3/control.xml
+04-12 17:09:39.637: E/UpnpDeviceListFragment(20608): getPresentationURL = http://www.pptv.com/
+04-12 17:09:39.637: E/UpnpDeviceListFragment(20608): BaseURL = 
+04-12 17:09:39.637: E/UpnpDeviceListFragment(20608): Manufacturer info : Manufacturer = Team PPTV,manufacturerURL = http://www.pptv.com/ , modelURL = http://www.pptv.com/ , modelName = http://www.pptv.com/ , modelNumber = 1.0 , modelDescription = PPTV Media Renderer
+04-12 17:09:41.480: E/UpnpDeviceListFragment(20608): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV智能电视,seviceType:
+04-12 17:09:41.480: E/UpnpDeviceListFragment(20608): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 17:09:41.480: E/UpnpDeviceListFragment(20608): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 17:09:41.480: E/UpnpDeviceListFragment(20608): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:8470f80e-a2d3-4e77-aed6-e8d123fdfa12
+04-12 17:09:41.480: E/UpnpDeviceListFragment(20608): printService:
+04-12 17:09:41.481: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /ConnectionManager/8470f80e-a2d3-4e77-aed6-e8d123fdfa12/scpd.xml
+04-12 17:09:41.481: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.90.90:1658/ConnectionManager/8470f80e-a2d3-4e77-aed6-e8d123fdfa12/control.xml
+04-12 17:09:41.481: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /RenderingControl/8470f80e-a2d3-4e77-aed6-e8d123fdfa12/scpd.xml
+04-12 17:09:41.481: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.90.90:1658/RenderingControl/8470f80e-a2d3-4e77-aed6-e8d123fdfa12/control.xml
+04-12 17:09:41.481: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /AVTransport/8470f80e-a2d3-4e77-aed6-e8d123fdfa12/scpd.xml
+04-12 17:09:41.482: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.90.90:1658/AVTransport/8470f80e-a2d3-4e77-aed6-e8d123fdfa12/control.xml
+04-12 17:09:41.482: E/UpnpDeviceListFragment(20608): getPresentationURL = http://www.pptv.com/
+04-12 17:09:41.482: E/UpnpDeviceListFragment(20608): BaseURL = 
+04-12 17:09:41.482: E/UpnpDeviceListFragment(20608): Manufacturer info : Manufacturer = Team PPTV,manufacturerURL = http://www.pptv.com/ , modelURL = http://www.pptv.com/ , modelName = http://www.pptv.com/ , modelNumber = 1.0 , modelDescription = PPTV Media Renderer
+04-12 17:09:43.644: E/UpnpDeviceListFragment(20608): New device detected DisplayString: Team PPTV PPTV 1.0,frindlyName:PPTV智能电视,seviceType:
+04-12 17:09:43.644: E/UpnpDeviceListFragment(20608): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 17:09:43.644: E/UpnpDeviceListFragment(20608): 	RenderingControl : schemas-upnp-org:RenderingControl:1
+04-12 17:09:43.644: E/UpnpDeviceListFragment(20608): 	AVTransport : schemas-upnp-org:AVTransport:1,uuid:c3443c5f-9f39-4a7b-8551-eb8a1524fbbf
+04-12 17:09:43.644: E/UpnpDeviceListFragment(20608): printService:
+04-12 17:09:43.644: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /RenderingControl/c3443c5f-9f39-4a7b-8551-eb8a1524fbbf/scpd.xml
+04-12 17:09:43.644: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.91.84:1920/RenderingControl/c3443c5f-9f39-4a7b-8551-eb8a1524fbbf/control.xml
+04-12 17:09:43.644: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /ConnectionManager/c3443c5f-9f39-4a7b-8551-eb8a1524fbbf/scpd.xml
+04-12 17:09:43.645: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.91.84:1920/ConnectionManager/c3443c5f-9f39-4a7b-8551-eb8a1524fbbf/control.xml
+04-12 17:09:43.645: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /AVTransport/c3443c5f-9f39-4a7b-8551-eb8a1524fbbf/scpd.xml
+04-12 17:09:43.645: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.91.84:1920/AVTransport/c3443c5f-9f39-4a7b-8551-eb8a1524fbbf/control.xml
+04-12 17:09:43.645: E/UpnpDeviceListFragment(20608): getPresentationURL = http://www.pptv.com/
+04-12 17:09:43.645: E/UpnpDeviceListFragment(20608): BaseURL = 
+04-12 17:09:43.645: E/UpnpDeviceListFragment(20608): Manufacturer info : Manufacturer = Team PPTV,manufacturerURL = http://www.pptv.com/ , modelURL = http://www.pptv.com/ , modelName = http://www.pptv.com/ , modelNumber = 1.0 , modelDescription = PPTV Media Renderer
+04-12 17:09:48.246: E/UpnpDeviceListFragment(20608): New device detected DisplayString: Team PPTV PPTV Media Center 1.0,frindlyName:PPTV多屏互动服务器 - ITA-1608-0025,seviceType:
+04-12 17:09:48.246: E/UpnpDeviceListFragment(20608): 	ConnectionManager : schemas-upnp-org:ConnectionManager:1
+04-12 17:09:48.246: E/UpnpDeviceListFragment(20608): 	ContentDirectory : schemas-upnp-org:ContentDirectory:1,uuid:234b9462-429d-11db-b130-C85B76176D7A
+04-12 17:09:48.246: E/UpnpDeviceListFragment(20608): printService:
+04-12 17:09:48.246: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /ContentDirectory/234b9462-429d-11db-b130-C85B76176D7A/scpd.xml
+04-12 17:09:48.246: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.91.14:1609/ContentDirectory/234b9462-429d-11db-b130-C85B76176D7A/control.xml
+04-12 17:09:48.246: E/UpnpDeviceListFragment(20608): 	 Service : (RemoteService) Descriptor: /ConnectionManager/234b9462-429d-11db-b130-C85B76176D7A/scpd.xml
+04-12 17:09:48.247: E/UpnpDeviceListFragment(20608): controLURL = http://10.200.91.14:1609/ConnectionManager/234b9462-429d-11db-b130-C85B76176D7A/control.xml
+04-12 17:09:48.247: E/UpnpDeviceListFragment(20608): getPresentationURL = http://www.pptv.com/
+04-12 17:09:48.247: E/UpnpDeviceListFragment(20608): BaseURL = 
+04-12 17:09:48.247: E/UpnpDeviceListFragment(20608): Manufacturer info : Manufacturer = Team PPTV,manufacturerURL = http://www.pptv.com/ , modelURL = http://www.pptv.com/ , modelName = http://www.pptv.com/ , modelNumber = 1.0 , modelDescription = PPTV Media Server - 您可以到PPTV的设置->多屏互动里关闭此服务
